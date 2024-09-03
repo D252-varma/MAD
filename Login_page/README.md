@@ -69,4 +69,6 @@ You've successfully run and modified your React Native App. :partying_face:
 
 If you can't get this to work, see the [Troubleshooting](https://reactnative.dev/docs/troubleshooting) page.
 
+## preview
+
 <img width="337" alt="Screenshot 2024-08-01 at 2 44 31 PM" src="https://github.com/user-attachments/assets/ef1d669f-5a51-4080-ae9e-b3ba6787327a">
