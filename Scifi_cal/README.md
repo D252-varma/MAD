@@ -87,6 +87,7 @@ Math.js: Install the mathjs package for evaluating mathematical expressions.
 
 
  ## Preview
-<img width="332" alt="Screenshot 2024-08-02 at 8 33 26 PM" src="https://github.com/user-attachments/assets/95a8183f-e8fa-48df-9992-b9bd9a3d930e">
+
 <img width="334" alt="Screenshot 2024-08-02 at 8 32 36 PM" src="https://github.com/user-attachments/assets/358fdfb5-f8b0-4d9b-9310-cc2278ef8860">
+<img width="332" alt="Screenshot 2024-08-02 at 8 33 26 PM" src="https://github.com/user-attachments/assets/95a8183f-e8fa-48df-9992-b9bd9a3d930e">
 
