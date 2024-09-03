@@ -1,5 +1,3 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
-
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
@@ -78,3 +76,10 @@ To run the app on an Android emulator or a physical Android device:npx react-nat
 	•	When the “Toggle Toast” button is pressed, a toast message is shown using ToastAndroid (specific to Android).
 	3.	Dynamic Styling:
 	•	The font size and color of the text change based on the toggle state.
+
+ ## Preview
+
+ <img width="337" alt="Screenshot 2024-08-01 at 9 22 45 PM" src="https://github.com/user-attachments/assets/243a1964-4ab5-42c4-a91d-56eefbaaffbc">
+<img width="336" alt="Screenshot 2024-08-01 at 9 20 58 PM" src="https://github.com/user-attachments/assets/fbfce6ed-705c-4f71-b951-d77aacac0ca6">
+
+ 
