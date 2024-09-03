@@ -74,7 +74,7 @@ App.js
 ## Preview
 
 <img width="332" alt="Screenshot 2024-08-27 at 5 36 40 PM" src="https://github.com/user-attachments/assets/96c6417d-cec0-4a0c-a953-8b22e082884b">
+<img width="336" alt="Screenshot 2024-08-27 at 5 37 15 PM" src="https://github.com/user-attachments/assets/ba06edcc-70bb-43e0-bd64-bb7cb1b1a50b">
 <img width="337" alt="Screenshot 2024-08-27 at 5 38 27 PM" src="https://github.com/user-attachments/assets/19705301-13fb-4d29-b4db-26b885362c3d">
 <img width="335" alt="Screenshot 2024-08-27 at 5 37 46 PM" src="https://github.com/user-attachments/assets/6a1beca5-6e65-4350-a977-5624f5c847d0">
-<img width="336" alt="Screenshot 2024-08-27 at 5 37 15 PM" src="https://github.com/user-attachments/assets/ba06edcc-70bb-43e0-bd64-bb7cb1b1a50b">
 <img width="330" alt="Screenshot 2024-08-27 at 5 35 39 PM" src="https://github.com/user-attachments/assets/af6abf5a-f59e-43e1-8726-00d92dbe98ff">
